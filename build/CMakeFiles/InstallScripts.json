@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/zhaihongyuan/Desktop/CMake/build/cmake_install.cmake",
+		"/Users/zhaihongyuan/Desktop/CMake/build/func/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

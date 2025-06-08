@@ -1,0 +1,6 @@
+/Users/zhaihongyuan/Desktop/CMake/build/CMakeFiles/MyProject.dir
+/Users/zhaihongyuan/Desktop/CMake/build/CMakeFiles/edit_cache.dir
+/Users/zhaihongyuan/Desktop/CMake/build/CMakeFiles/rebuild_cache.dir
+/Users/zhaihongyuan/Desktop/CMake/build/func/CMakeFiles/myFunc.dir
+/Users/zhaihongyuan/Desktop/CMake/build/func/CMakeFiles/edit_cache.dir
+/Users/zhaihongyuan/Desktop/CMake/build/func/CMakeFiles/rebuild_cache.dir
